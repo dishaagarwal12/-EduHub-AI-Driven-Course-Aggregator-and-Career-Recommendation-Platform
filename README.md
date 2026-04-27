@@ -1,5 +1,5 @@
 🎓 EduHub: AI-Driven Course Aggregator & Career Recommendation Platform
-Live Demo -> https://www.linkedin.com/feed/update/urn:li:activity:7453178902224502784/
+Live Demo -> https://www.linkedin.com/feed/update/urn:li:activity:7454617023613030401/
 [Project Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 [Design](https://img.shields.io/badge/UX-Premium_3D-orange.svg)
 [Tech](https://img.shields.io/badge/Tech-Python%20%7C%20JS%20%7C%20Bootstrap-green.svg)
